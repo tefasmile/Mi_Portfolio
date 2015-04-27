@@ -1,5 +1,41 @@
-commit 5f6619e681c2e3003d870e8ac37338addd2d66e0
+commit 7c0e83eea5dee249e66e243cac61660e93f33008
 Author: stefany <estefyz.n@hotmail.com>
-Date:   Sat Mar 21 15:31:22 2015 -0500
+Date:   Mon Apr 27 12:15:18 2015 -0500
 
-    Bases de mi portafolio
+    ultimos cambios de portafolio con plantilla Boostrap
+
+commit f0575a9594ad775aebdcc9005df590863476a094
+Author: stefany <estefyz.n@hotmail.com>
+Date:   Mon Apr 27 10:51:11 2015 -0500
+
+    anexo leyenda acerca de mi
+
+commit 41157cff2ef98e6122cc8a2724317a68e4833188
+Author: stefany <estefyz.n@hotmail.com>
+Date:   Mon Apr 27 10:11:16 2015 -0500
+
+    Anexo de perfil y servicios que ofrezco
+
+commit 4f9f5783e296ba4c1ba7684698e13e1bb1abbed0
+Author: stefany <estefyz.n@hotmail.com>
+Date:   Mon Apr 27 10:08:07 2015 -0500
+
+    Agrege foto perfil
+
+commit abf73b59f8f8626d84b883a6fdbe21934609c814
+Author: stefany <estefyz.n@hotmail.com>
+Date:   Mon Apr 27 09:32:47 2015 -0500
+
+    titulo header del llamado miportfolio
+
+commit af5c673670677965c20a78c95f11631ae1afb4aa
+Author: stefany <estefyz.n@hotmail.com>
+Date:   Mon Apr 27 09:24:12 2015 -0500
+
+    base de mi portafolio
+
+commit 8e206b708e2d6a28f153b5e558cc10d32a5a771a
+Author: stefany <estefyz.n@hotmail.com>
+Date:   Mon Apr 27 09:22:56 2015 -0500
+
+    Maquetacion base de mi portafolio
